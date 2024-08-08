@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**duduabobora02/duduabobora02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Dudu Abóbora
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  oliveira.eduardo02@escola.pr.gov.br
+
+  ![]()
+  ![image](https://github.com/user-attachments/assets/e5cb97a8-182e-4fb9-ad3d-675419d44bf1)
+
